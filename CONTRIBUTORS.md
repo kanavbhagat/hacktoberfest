@@ -694,3 +694,10 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Kanav Bhagat](https://github.com/kanavbhagat)
+- Place: New Delhi, India
+- Bio: Cse Student at the IIITD
+- GitHub: [Kanav Bhagat](https://github.com/kanavbhagat)
+
+
