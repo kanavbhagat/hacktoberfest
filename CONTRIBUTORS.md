@@ -690,7 +690,8 @@ s in Computer Science
 - Bio: Full Stack Developer
 - GitHub: [Gabriel Obaldia](https://github.com/gobaldia)
 
-#### Name: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
-- Place: Granada, Spain
-- Bio: IT Student at the University of Granada
-- GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Nishad Gupta](https://github.com/nishadgupta)
+- Place: Patiala, Punjab
+- Bio: Cse Student at the  Thapar university
+- GitHub: [Nishad Gupta github.com/nishadgupta)
