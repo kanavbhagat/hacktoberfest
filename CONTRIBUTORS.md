@@ -9,6 +9,12 @@
 - GitHub: [Gabe Dunn](https://github.com/redxtech)
 - Website: [when.](https://when.redxte.ch)
 
+
+#### Name: [JIGME LOBSANG LEPCHA](https://github.com/jiggylepcha)
+- Place: India
+- Bio: I love playing football (soccer)
+- GitHub: [Gabe Dunn](https://github.com/jiggylepcha)
+
 #### Name: [GEORGE FOTOPOULOS](https://github.com/xorz57)
 - Place: Patras, Achaia, Greece
 - Bio: Technology Enthusiast
